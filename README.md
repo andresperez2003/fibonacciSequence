@@ -1,5 +1,5 @@
 # Fibonacci Sequence
-Exercise 1° year Computer Science
+Exercise of recursive functions
 
 
 Sequence of Fibonacci
